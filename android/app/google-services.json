@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043105855601",
+    "project_id": "dmart-b3985",
+    "storage_bucket": "dmart-b3985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043105855601:android:de45cfad3489ade05303d0",
+        "android_client_info": {
+          "package_name": "com.example.d_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043105855601-llme91jg5sgv9qoe2ojboljs7p5glsds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnIg2C2F5IIB4LZvO_D1YBeRKzK25e-iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043105855601-llme91jg5sgv9qoe2ojboljs7p5glsds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
