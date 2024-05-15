@@ -78,7 +78,7 @@ class ScreenController extends StatelessWidget {
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sahilpotdukhe/echat.git
+   git clone https://github.com/sahilpotdukhe/Flutter-Ecommerce-App.git
 2. **Navigate to the project directory:**
     ```bash
     cd echat
