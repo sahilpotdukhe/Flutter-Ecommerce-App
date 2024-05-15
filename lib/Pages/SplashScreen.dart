@@ -1,10 +1,8 @@
 import 'package:d_mart/Pages/Homepage.dart';
-import 'package:d_mart/Pages/StartPage.dart';
-import 'package:d_mart/provider/userprovider.dart';
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:lottie/lottie.dart';
-import 'package:provider/provider.dart';
+
 
 class SplashScreen extends StatefulWidget {
   @override
@@ -18,7 +16,6 @@ class _SplashScreenState extends State<SplashScreen> {
     super.initState();
     Future.delayed(Duration(milliseconds: 7650),(){
       Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) =>HomePage()));
-
     });
   }
   @override

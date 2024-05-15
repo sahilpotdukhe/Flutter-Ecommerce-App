@@ -1,5 +1,4 @@
 import 'package:d_mart/Models/productmodel.dart';
-import 'package:d_mart/UnusedPages/Cart.dart';
 import 'package:d_mart/Pages/CartPage.dart';
 import 'package:d_mart/Pages/Homepage.dart';
 import 'package:d_mart/Pages/Loading.dart';

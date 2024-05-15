@@ -1,5 +1,4 @@
 import 'package:d_mart/Models/CategoryModel.dart';
-import 'package:d_mart/Models/productmodel.dart';
 import 'package:d_mart/Pages/CartPage.dart';
 import 'package:d_mart/Widgets/SimilarProductsCard.dart';
 import 'package:d_mart/provider/productProvider.dart';

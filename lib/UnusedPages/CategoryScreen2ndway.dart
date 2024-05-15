@@ -1,7 +1,6 @@
 import 'package:d_mart/Models/CategoryModel.dart';
 import 'package:d_mart/Pages/CartPage.dart';
 import 'package:d_mart/Pages/ProductDetails.dart';
-import 'package:d_mart/UnusedPages/Products.dart';
 import 'package:d_mart/Widgets/SimilarProductsCard.dart';
 import 'package:d_mart/provider/productProvider.dart';
 import 'package:flutter/material.dart';

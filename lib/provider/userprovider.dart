@@ -114,6 +114,8 @@ Future signOutme() async{
     return false;
   }
   }
+
+
   Future<bool> removeFromCart({CartItemModel cartItem})async{
     print("THE PRODUCT IS: ${cartItem.toString()}");
 

@@ -1,6 +1,3 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:d_mart/Pages/Loading.dart';
-import 'package:d_mart/Pages/LoginForm.dart';
 import 'package:d_mart/Pages/SplashScreen.dart';
 import 'package:d_mart/Pages/StartPage.dart';
 import 'package:d_mart/provider/CategoryProvider.dart';

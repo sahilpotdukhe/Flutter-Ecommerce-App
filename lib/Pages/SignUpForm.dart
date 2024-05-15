@@ -1,8 +1,5 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:d_mart/Pages/Homepage.dart';
 import 'package:d_mart/Pages/Loading.dart';
 import 'package:d_mart/provider/userprovider.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
@@ -24,7 +21,7 @@ class _SignupFormState extends State<SignupForm> {
   //bool isLoading=false;
   //final _key = GlobalKey<ScaffoldState>();
 
-  final _formkey = GlobalKey<FormState>();//Use to validate
+  final _formkey = GlobalKey<FormState>();   //Use to validate
 
   void _togglepasswordview(){
     setState(() {

@@ -1,11 +1,9 @@
-import 'package:d_mart/Models/OrderModel.dart';
 import 'package:d_mart/Pages/Homepage.dart';
 import 'package:d_mart/Pages/OrderInfo.dart';
 import 'package:d_mart/provider/userprovider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:lottie/lottie.dart';
 import 'package:provider/provider.dart';
 
 class OrderPage extends StatefulWidget {

@@ -1,6 +1,5 @@
 import 'package:d_mart/Models/productmodel.dart';
 import 'package:d_mart/Pages/Loading.dart';
-import 'package:d_mart/UnusedPages/PageDetails.dart';
 import 'package:d_mart/Pages/ProductDetails.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
