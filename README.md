@@ -11,7 +11,9 @@ Welcome to our e-commerce app, designed to revolutionize your shopping experienc
 
 ---
 ### 🎥 Simple demo
-
+<p align="center">
+  <img src="ecommercedemo.gif" alt="EchatDemo" width="350" />
+</p>
 
 ## ➤ Key Features
 
